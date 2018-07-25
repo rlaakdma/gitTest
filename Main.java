@@ -1,1 +1,3 @@
-blah
+public class Main {
+	private String name; // name
+}
